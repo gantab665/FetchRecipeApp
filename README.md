@@ -18,11 +18,9 @@ Handles malformed or empty data gracefully by showing appropriate error messages
 2. **Recipe List View**:
     ![Recipe List View](https://raw.githubusercontent.com/gantab665/FetchRecipeApp/main/screenshot1.png)
 
-Focus Areas
-Concurrency with async/await:
-Ensured all asynchronous operations, including API calls and image loading, use modern concurrency features.
-Error Handling:
-Handled errors like malformed data, empty data, and network issues gracefully.
+Focus Areas:
+Concurrency with async/await: Ensured all asynchronous operations, including API calls and image loading, use modern concurrency features.
+Error Handling: Handled errors like malformed data, empty data, and network issues gracefully.
 Displayed meaningful error messages for better user experience.
 Efficient Network Usage:
 Implemented lazy loading and caching of images to reduce bandwidth consumption.
