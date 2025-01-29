@@ -16,8 +16,7 @@ Handles malformed or empty data gracefully by showing appropriate error messages
    ![Recipe Details View](https://github.com/gantab665/FetchRecipeApp/blob/main/Screenshot2.png)
 
 2. **Recipe List View**:
-    ![Recipe Details View](https://github.com/gantab665/FetchRecipeApp/blob/main/Screenshot1.png)
-
+    ![Recipe List View](https://raw.githubusercontent.com/gantab665/FetchRecipeApp/main/screenshot1.png)
 
 Focus Areas
 Concurrency with async/await:
